@@ -1,6 +1,8 @@
 # SiD - Simple Deep Model
-**Vectorwise Interpretable Attentions for Multimodal Tabular Data**
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faffjljoo3581%2FJob-Recommend-Competition&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+**Vectorwise Interpretable Attentions for Multimodal Tabular Data**
+
 ## Winning Solution for a Competition
 This repository is an official implementation of a model which won first place in [the dacon competition](https://dacon.io/competitions/official/235865/talkboard). You can see the final result on [this post](https://dacon.io/competitions/official/235865/talkboard/405999?page=1&dtype=recent). If you want to reproduce the score of the competition, please check out [this documentation](./REPRODUCTION.md) which is used to verify by the competition hosts.
 
