@@ -1,0 +1,7 @@
+omegaconf
+pandas
+pytorch_lightning
+scikit_learn
+torch==1.10.1+cu113
+transformers
+wandb
