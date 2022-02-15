@@ -43,7 +43,7 @@ As mentioned above, SiD is considered to extend [TabNet](https://arxiv.org/abs/1
 ## Interpretability
 
 | **2017** | ![](./images/importance-mask-2017.png) |
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|
 | **2018** | ![](./images/importance-mask-2018.png) |
 | **2019** | ![](./images/importance-mask-2019.png) |
 | **2020** | ![](./images/importance-mask-2020.png) |
