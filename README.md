@@ -27,8 +27,7 @@ $ pip install -r requirements.txt
 ## Architecture
 
 | Model Architecture | Residual Block |
-|:-:|:-
-:|
+|:-:|:-:|
 | ![](./images/architecture-1.png) | ![](./images/architecture-2.png) |
 
 As mentioned above, SiD is considered to extend [TabNet](https://arxiv.org/abs/1908.07442) with vectorwise approach. Because many multimodal data (e.g. text, image and audio) are encoded into the vectors, it is important to merge the tabular data with the vectors. However, the attention mechanism (attentive transformer) of TabNet does not consider the vectorized features. Therefore we propose the vectorwise interpretable attention model.
