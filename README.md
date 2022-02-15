@@ -42,10 +42,11 @@ As mentioned above, SiD is considered to extend [TabNet](https://arxiv.org/abs/1
 
 ## Interpretability
 
-| Year | Importance Mask | Year | Importance Mask |
+| **2017** | ![](./images/importance-mask-2017.png) |
 |:-:|:-:|:-:|:-:|
-| **2017** | ![](./images/importance-mask-2017.png) | **2018** | ![](./images/importance-mask-2018.png) |
-| **2019** | ![](./images/importance-mask-2019.png) | **2020** | ![](./images/importance-mask-2020.png) |
+| **2018** | ![](./images/importance-mask-2018.png) |
+| **2019** | ![](./images/importance-mask-2019.png) |
+| **2020** | ![](./images/importance-mask-2020.png) |
 
 | **Importance Mask** | ![](./images/importance-mask-by-job.png) |
 |:-:|:-:|
